@@ -4,6 +4,6 @@
 			"Nasir8891"
 		]
 	},
-	"newusermessage-desc": "নতুন নিবন্ধিত ব্যবহারকারীদের আলাপ পাতায় বার্তা যোগ করে",
-	"newuseredit-summary": "নতুন ব্যবহারকারীদের আলাপ পাতায় [[{{int:newusermessage-template}}|স্বাগতম বার্তা]] সংযোজন"
+	"newduplicateusermessage-description": "নতুন নিবন্ধিত ব্যবহারকারীদের আলাপ পাতায় বার্তা যোগ করে",
+	"newduplicateusermessage-edit-summary": "নতুন ব্যবহারকারীদের আলাপ পাতায় [[{{int:newduplicateusermessage-template}}|স্বাগতম বার্তা]] সংযোজন"
 }

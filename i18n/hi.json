@@ -6,6 +6,6 @@
 			"Siddhartha Ghai"
 		]
 	},
-	"newusermessage-desc": "नये सदस्यों के वार्ता पृष्ठ पर एक संदेश देता है",
-	"newuseredit-summary": "[[{{int:newusermessage-template}}|स्वागतम्]]"
+	"newduplicateusermessage-description": "नये सदस्यों के वार्ता पृष्ठ पर एक संदेश देता है",
+	"newduplicateusermessage-edit-summary": "[[{{int:newduplicateusermessage-template}}|स्वागतम्]]"
 }

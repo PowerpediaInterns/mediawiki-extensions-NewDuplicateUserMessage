@@ -5,6 +5,6 @@
 			"OsamaK"
 		]
 	},
-	"newusermessage-desc": "يضيف رسالة إلى صفحات نقاش المستخدمين الجدد",
-	"newuseredit-summary": "إضافة [[{{int:newusermessage-template}}|رسالة ترحيب]] إلى صفحة نقاش مستخدم جديد"
+	"newduplicateusermessage-description": "يضيف رسالة إلى صفحات نقاش المستخدمين الجدد",
+	"newduplicateusermessage-edit-summary": "إضافة [[{{int:newduplicateusermessage-template}}|رسالة ترحيب]] إلى صفحة نقاش مستخدم جديد"
 }

@@ -5,6 +5,6 @@
 			"Максим Підліснюк"
 		]
 	},
-	"newusermessage-desc": "Додає повідомлення на сторінку обговорення новоствореного користувача",
-	"newuseredit-summary": "Додавання [[{{int:newusermessage-template}}|привітання]] на сторінку обговорення нового користувача"
+	"newduplicateusermessage-description": "Додає повідомлення на сторінку обговорення новоствореного користувача",
+	"newduplicateusermessage-edit-summary": "Додавання [[{{int:newduplicateusermessage-template}}|привітання]] на сторінку обговорення нового користувача"
 }

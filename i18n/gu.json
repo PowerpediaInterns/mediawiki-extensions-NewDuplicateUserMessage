@@ -5,6 +5,6 @@
 			"Dsvyas"
 		]
 	},
-	"newusermessage-desc": "નવા સભ્યનાં ચર્ચાનાં પાનાઓ પર સંદેશ ઉમેરો",
-	"newuseredit-summary": "નવા સભ્યનાં ચર્ચાનાં પાના પર [[{{int:newusermessage-template}}|સ્વાગત સંદેશ]]નો ઉમેરો"
+	"newduplicateusermessage-description": "નવા સભ્યનાં ચર્ચાનાં પાનાઓ પર સંદેશ ઉમેરો",
+	"newduplicateusermessage-edit-summary": "નવા સભ્યનાં ચર્ચાનાં પાના પર [[{{int:newduplicateusermessage-template}}|સ્વાગત સંદેશ]]નો ઉમેરો"
 }

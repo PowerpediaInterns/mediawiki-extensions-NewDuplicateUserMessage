@@ -5,6 +5,6 @@
 			"Умар"
 		]
 	},
-	"newusermessage-desc": "Чутуху хаам керла дlавазвеллачу декъашхочуьна дийцаре агlончу",
-	"newuseredit-summary": "Чутуху [[{{int:newusermessage-template}}|маршалла]] керла декъашхочун дийцаре агӀончу"
+	"newduplicateusermessage-description": "Чутуху хаам керла дlавазвеллачу декъашхочуьна дийцаре агlончу",
+	"newduplicateusermessage-edit-summary": "Чутуху [[{{int:newduplicateusermessage-template}}|маршалла]] керла декъашхочун дийцаре агӀончу"
 }

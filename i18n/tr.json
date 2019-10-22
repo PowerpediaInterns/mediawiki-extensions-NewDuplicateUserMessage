@@ -5,6 +5,6 @@
 			"Karduelis"
 		]
 	},
-	"newusermessage-desc": "Yeni oluşturulmuş kullanıcının tartışma sayfasına bir mesaj ekler",
-	"newuseredit-summary": "Yeni kullanıcının tartışma sayfasına [[{{int:newusermessage-template}}|hoşgeldin mesajı]] ekleniyor"
+	"newduplicateusermessage-description": "Yeni oluşturulmuş kullanıcının tartışma sayfasına bir mesaj ekler",
+	"newduplicateusermessage-edit-summary": "Yeni kullanıcının tartışma sayfasına [[{{int:newduplicateusermessage-template}}|hoşgeldin mesajı]] ekleniyor"
 }

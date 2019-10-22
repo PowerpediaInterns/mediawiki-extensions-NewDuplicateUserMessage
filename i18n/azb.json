@@ -4,6 +4,6 @@
 			"Mousa"
 		]
 	},
-	"newusermessage-desc": "یئنی یارانان ایستیفاده‌چیلرین دانیشیق صحیفه‌لرینه بیر مئساژ آرتیرار",
-	"newuseredit-summary": "یئنی ایستیفاده‌چینین دانیشیق صحیفه‌سینه [[{{int:newusermessage-template}}|خوش گلدینیز]] مئساژی آرتیریلیر"
+	"newduplicateusermessage-description": "یئنی یارانان ایستیفاده‌چیلرین دانیشیق صحیفه‌لرینه بیر مئساژ آرتیرار",
+	"newduplicateusermessage-edit-summary": "یئنی ایستیفاده‌چینین دانیشیق صحیفه‌سینه [[{{int:newduplicateusermessage-template}}|خوش گلدینیز]] مئساژی آرتیریلیر"
 }

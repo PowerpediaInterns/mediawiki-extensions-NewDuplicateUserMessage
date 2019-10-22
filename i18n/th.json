@@ -6,6 +6,6 @@
 			"Horus"
 		]
 	},
-	"newusermessage-desc": "เพิ่มสารลงในหน้าคุยของผู้ใช้เพิ่งสร้าง",
-	"newuseredit-summary": "เพิ่ม[[{{int:newusermessage-template}}|สารต้อนรับ]]ในหน้าคุยของผู้ใช้ใหม่"
+	"newduplicateusermessage-description": "เพิ่มสารลงในหน้าคุยของผู้ใช้เพิ่งสร้าง",
+	"newduplicateusermessage-edit-summary": "เพิ่ม[[{{int:newduplicateusermessage-template}}|สารต้อนรับ]]ในหน้าคุยของผู้ใช้ใหม่"
 }

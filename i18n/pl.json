@@ -4,6 +4,6 @@
 			"Derbeth"
 		]
 	},
-	"newusermessage-desc": "Dodaje wiadomość do strony dyskusji nowego użytkownika",
-	"newuseredit-summary": "Dodanie [[{{int:newusermessage-template}}|wiadomości powitalnej]] do strony dyskusji nowego użytkownika"
+	"newduplicateusermessage-description": "Dodaje wiadomość do strony dyskusji nowego użytkownika",
+	"newduplicateusermessage-edit-summary": "Dodanie [[{{int:newduplicateusermessage-template}}|wiadomości powitalnej]] do strony dyskusji nowego użytkownika"
 }

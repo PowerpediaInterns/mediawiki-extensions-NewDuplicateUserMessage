@@ -1,38 +1,39 @@
 {
-	"name": "NewUserMessage",
+	"name": "NewDuplicateUserMessage",
 	"version": "3.6.0, 2016-10-31",
 	"author": [
 		"[https://www.organicdesign.co.nz/User:Nad Aran Dunkley]",
-		"Siebrand Mazeland"
+		"Siebrand Mazeland",
+		"David Wong"
 	],
-	"url": "https://www.mediawiki.org/wiki/Extension:NewUserMessage",
-	"descriptionmsg": "newusermessage-desc",
+	"url": "https://www.mediawiki.org/wiki/Extension:NewDuplicateUserMessage",
+	"descriptionmsg": "newduplicateusermessage-description",
 	"license-name": "GPL-2.0-or-later",
 	"type": "other",
 	"MessagesDirs": {
-		"NewUserMessage": [
+		"NewDuplicateUserMessage": [
 			"i18n"
 		]
 	},
 	"AutoloadClasses": {
-		"NewUserMessage": "includes/NewUserMessage.php",
-		"NewUserMessageJob": "includes/NewUserMessageJob.php"
+		"NewDuplicateUserMessage": "includes/NewDuplicateUserMessage.php",
+		"NewDuplicateUserMessageJob": "includes/NewDuplicateUserMessageJob.php"
 	},
 	"JobClasses": {
-		"newUserMessageJob": "NewUserMessageJob"
+		"newDuplicateUserMessageJob": "NewDuplicateUserMessageJob"
 	},
 	"Hooks": {
 		"LocalUserCreated": [
-			"NewUserMessage::onLocalUserCreated"
+			"NewDuplicateUserMessage::onLocalUserCreated"
 		],
 		"UserGetReservedNames": [
-			"NewUserMessage::onUserGetReservedNames"
+			"NewDuplicateUserMessage::onUserGetReservedNames"
 		]
 	},
 	"config": {
-		"NewUserSuppressRC": false,
-		"NewUserMinorEdit": true,
-		"NewUserMessageOnAutoCreate": false
+		"NewDuplicateUserSuppressRC": false,
+		"NewDuplicateUserMinorEdit": true,
+		"NewDuplicateUserMessageOnAutoCreate": false
 	},
 	"manifest_version": 1
 }

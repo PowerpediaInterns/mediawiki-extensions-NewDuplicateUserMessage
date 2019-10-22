@@ -4,6 +4,6 @@
 			"Lam-ang"
 		]
 	},
-	"newusermessage-desc": "Agnayon kadagiti mensahe iti kabarbaro a naaramid  a pangtungtungan a pampanid ti agar-aramat",
-	"newuseredit-summary": "Agnay-nayon [[{{int:newusermessage-template}}|kablaaw a mensahe]] iti baro a pagtungtungan a panid ti agar-aramat"
+	"newduplicateusermessage-description": "Agnayon kadagiti mensahe iti kabarbaro a naaramid  a pangtungtungan a pampanid ti agar-aramat",
+	"newduplicateusermessage-edit-summary": "Agnay-nayon [[{{int:newduplicateusermessage-template}}|kablaaw a mensahe]] iti baro a pagtungtungan a panid ti agar-aramat"
 }

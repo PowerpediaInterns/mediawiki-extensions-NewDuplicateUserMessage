@@ -5,6 +5,6 @@
 			"Soued031"
 		]
 	},
-	"newusermessage-desc": "Ee Message op d'Diskussiounssäite vun neie Benotzer setzen",
-	"newuseredit-summary": "[[{{int:newusermessage-template}}|Wëllkommens Message]] op engem neie Benotzer seng Diskussiounssäit dobäisetzen"
+	"newduplicateusermessage-description": "Ee Message op d'Diskussiounssäite vun neie Benotzer setzen",
+	"newduplicateusermessage-edit-summary": "[[{{int:newduplicateusermessage-template}}|Wëllkommens Message]] op engem neie Benotzer seng Diskussiounssäit dobäisetzen"
 }

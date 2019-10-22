@@ -4,6 +4,6 @@
 			"Dead3y3"
 		]
 	},
-	"newusermessage-desc": "Προσθέτει ένα μήνυμα σε σελίδες συζήτησης πρόσφατα δημιουργημένων χρηστ-ών/ριών",
-	"newuseredit-summary": "Ένα [[{{int:newusermessage-template}}|μήνυμα καλωσορίσματος]] προστίθεται στη σελίδα συζήτησης του νέου χρήστ-η/ριας"
+	"newduplicateusermessage-description": "Προσθέτει ένα μήνυμα σε σελίδες συζήτησης πρόσφατα δημιουργημένων χρηστ-ών/ριών",
+	"newduplicateusermessage-edit-summary": "Ένα [[{{int:newduplicateusermessage-template}}|μήνυμα καλωσορίσματος]] προστίθεται στη σελίδα συζήτησης του νέου χρήστ-η/ριας"
 }

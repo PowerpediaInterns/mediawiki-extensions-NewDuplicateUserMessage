@@ -4,6 +4,6 @@
 			"Cedric31"
 		]
 	},
-	"newusermessage-desc": "Apond un messatge dins la pagina de discussion d'un utilizaire novèl.",
-	"newuseredit-summary": "Apond [[{{int:newusermessage-template}}|un messatge de benvenguda]] dins la pagina de discussion d’un utilizaire novèl"
+	"newduplicateusermessage-description": "Apond un messatge dins la pagina de discussion d'un utilizaire novèl.",
+	"newduplicateusermessage-edit-summary": "Apond [[{{int:newduplicateusermessage-template}}|un messatge de benvenguda]] dins la pagina de discussion d’un utilizaire novèl"
 }

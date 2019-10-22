@@ -4,6 +4,6 @@
 			"Jon Harald Søby"
 		]
 	},
-	"newusermessage-desc": "Legger inn en beskjed på nye brukeres diskusjonssider",
-	"newuseredit-summary": "Legger til en [[{{int:newusermessage-template}}|velkomstbeskjed]] til nye brukeres diskusjonssider"
+	"newduplicateusermessage-description": "Legger inn en beskjed på nye brukeres diskusjonssider",
+	"newduplicateusermessage-edit-summary": "Legger til en [[{{int:newduplicateusermessage-template}}|velkomstbeskjed]] til nye brukeres diskusjonssider"
 }

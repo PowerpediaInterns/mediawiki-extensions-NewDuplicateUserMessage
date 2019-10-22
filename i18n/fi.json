@@ -5,6 +5,6 @@
 			"Jaakonam"
 		]
 	},
-	"newusermessage-desc": "Lisää viestin uuden käyttäjän keskustelusivulle.",
-	"newuseredit-summary": "[[{{int:newusermessage-template}}|Tervetuloviestin]] lisääminen uuden käyttäjän keskustelusivulle"
+	"newduplicateusermessage-description": "Lisää viestin uuden käyttäjän keskustelusivulle.",
+	"newduplicateusermessage-edit-summary": "[[{{int:newduplicateusermessage-template}}|Tervetuloviestin]] lisääminen uuden käyttäjän keskustelusivulle"
 }

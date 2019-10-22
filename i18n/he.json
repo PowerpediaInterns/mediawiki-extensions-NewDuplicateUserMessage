@@ -5,6 +5,6 @@
 			"Rotemliss"
 		]
 	},
-	"newusermessage-desc": "הוספת הודעה בדפי השיחה של משתמשים חדשים",
-	"newuseredit-summary": "הוספת [[{{int:newusermessage-template}}|הודעת ברוך הבא]] בדפי השיחה של משתמשים חדשים"
+	"newduplicateusermessage-description": "הוספת הודעה בדפי השיחה של משתמשים חדשים",
+	"newduplicateusermessage-edit-summary": "הוספת [[{{int:newduplicateusermessage-template}}|הודעת ברוך הבא]] בדפי השיחה של משתמשים חדשים"
 }

@@ -5,6 +5,6 @@
 			"Njardarlogar"
 		]
 	},
-	"newusermessage-desc": "Legg inn meldingar på diskusjonssidene til nye brukarar",
-	"newuseredit-summary": "La til ei [[{{int:newusermessage-template}}|velkomstmelding]] på diskusjonssida til ein ny brukar"
+	"newduplicateusermessage-description": "Legg inn meldingar på diskusjonssidene til nye brukarar",
+	"newduplicateusermessage-edit-summary": "La til ei [[{{int:newduplicateusermessage-template}}|velkomstmelding]] på diskusjonssida til ein ny brukar"
 }

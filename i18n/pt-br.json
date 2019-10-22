@@ -4,6 +4,6 @@
 			"Carla404"
 		]
 	},
-	"newusermessage-desc": "Adiciona uma mensagem à página de discussão de novos usuários",
-	"newuseredit-summary": "Adicionando uma [[{{int:newusermessage-template}}|mensagem de boas-vindas]] à página de discussão do novo usuário"
+	"newduplicateusermessage-description": "Adiciona uma mensagem à página de discussão de novos usuários",
+	"newduplicateusermessage-edit-summary": "Adicionando uma [[{{int:newduplicateusermessage-template}}|mensagem de boas-vindas]] à página de discussão do novo usuário"
 }

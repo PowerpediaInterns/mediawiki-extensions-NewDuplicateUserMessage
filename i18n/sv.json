@@ -5,6 +5,6 @@
 			"M.M.S."
 		]
 	},
-	"newusermessage-desc": "Lägger ett meddelande på nyligen registrerade användares diskussionssidor",
-	"newuseredit-summary": "Lägger till ett [[{{int:newusermessage-template}}|välkomstmeddelande]] till nya användares diskussionssidor"
+	"newduplicateusermessage-description": "Lägger ett meddelande på nyligen registrerade användares diskussionssidor",
+	"newduplicateusermessage-edit-summary": "Lägger till ett [[{{int:newduplicateusermessage-template}}|välkomstmeddelande]] till nya användares diskussionssidor"
 }

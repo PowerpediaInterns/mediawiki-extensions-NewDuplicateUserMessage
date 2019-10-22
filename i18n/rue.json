@@ -4,6 +4,6 @@
 			"Gazeb"
 		]
 	},
-	"newusermessage-desc": "Додавать повідомлїня на діскузны сторінкы ново створеных хоснователїв",
-	"newuseredit-summary": "Приданя [[{{int:newusermessage-template}}|привітаня]] на діскузну сторінку нового хоснователя"
+	"newduplicateusermessage-description": "Додавать повідомлїня на діскузны сторінкы ново створеных хоснователїв",
+	"newduplicateusermessage-edit-summary": "Приданя [[{{int:newduplicateusermessage-template}}|привітаня]] на діскузну сторінку нового хоснователя"
 }

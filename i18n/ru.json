@@ -4,6 +4,6 @@
 			"Александр Сигачёв"
 		]
 	},
-	"newusermessage-desc": "Добавляет сообщение на страницу обсуждения недавно зарегистрированного участника",
-	"newuseredit-summary": "Добавление [[{{int:newusermessage-template}}|приветствия]] на страницу обсуждения нового участника"
+	"newduplicateusermessage-description": "Добавляет сообщение на страницу обсуждения недавно зарегистрированного участника",
+	"newduplicateusermessage-edit-summary": "Добавление [[{{int:newduplicateusermessage-template}}|приветствия]] на страницу обсуждения нового участника"
 }

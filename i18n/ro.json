@@ -5,6 +5,6 @@
 			"Strainu"
 		]
 	},
-	"newusermessage-desc": "Adaugă un mesaj în paginile de discuție ale utilizatorilor nou înregistrați",
-	"newuseredit-summary": "[[{{int:newusermessage-template}}|Mesaj de bun venit]]"
+	"newduplicateusermessage-description": "Adaugă un mesaj în paginile de discuție ale utilizatorilor nou înregistrați",
+	"newduplicateusermessage-edit-summary": "[[{{int:newduplicateusermessage-template}}|Mesaj de bun venit]]"
 }

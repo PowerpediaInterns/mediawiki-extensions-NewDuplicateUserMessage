@@ -4,6 +4,6 @@
 			"Purodha"
 		]
 	},
-	"newusermessage-desc": "Määt ene Beidraach op jedem neu aanjelaate Metmaacher sing Klaaf-Sigg.",
-	"newuseredit-summary": "Donn de neu Metmaachere_ene [[{{int:newusermessage-template}}|Bejröhßungstex]] op ier Klaaf-Sigg."
+	"newduplicateusermessage-description": "Määt ene Beidraach op jedem neu aanjelaate Metmaacher sing Klaaf-Sigg.",
+	"newduplicateusermessage-edit-summary": "Donn de neu Metmaachere_ene [[{{int:newduplicateusermessage-template}}|Bejröhßungstex]] op ier Klaaf-Sigg."
 }

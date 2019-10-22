@@ -4,6 +4,6 @@
 			"Michawiki"
 		]
 	},
-	"newusermessage-desc": "Powěsć nowo wutworjenym wužiwarskim diskusijnym stronam přidać",
-	"newuseredit-summary": "Přidawa [[{{int:newusermessage-template}}|powitansku powěesć]] k diskusijnej stronje noweho wužiwarja"
+	"newduplicateusermessage-description": "Powěsć nowo wutworjenym wužiwarskim diskusijnym stronam přidać",
+	"newduplicateusermessage-edit-summary": "Přidawa [[{{int:newduplicateusermessage-template}}|powitansku powěesć]] k diskusijnej stronje noweho wužiwarja"
 }

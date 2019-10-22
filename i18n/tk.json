@@ -4,6 +4,6 @@
 			"Hanberke"
 		]
 	},
-	"newusermessage-desc": "Täze döredilen ulanyjy pikir alyşma sahypalaryna habarlaşyk goşýar",
-	"newuseredit-summary": "Täze ulanyjynyň pikir alyşma sahypasyna [[{{int:newusermessage-template}}|hoş geldiňiz habarlaşygy]] goşulýar"
+	"newduplicateusermessage-description": "Täze döredilen ulanyjy pikir alyşma sahypalaryna habarlaşyk goşýar",
+	"newduplicateusermessage-edit-summary": "Täze ulanyjynyň pikir alyşma sahypasyna [[{{int:newduplicateusermessage-template}}|hoş geldiňiz habarlaşygy]] goşulýar"
 }

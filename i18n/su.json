@@ -5,6 +5,6 @@
 			"Kandar"
 		]
 	},
-	"newusermessage-desc": "Kirim surat ka kaca obrolan pamaké nu kakara dijieun",
-	"newuseredit-summary": "Nambahan [[{{int:newusermessage-template}}|talatah wilujeng sumping]] ka kaca Obrolan saurang pamaké anyar"
+	"newduplicateusermessage-description": "Kirim surat ka kaca obrolan pamaké nu kakara dijieun",
+	"newduplicateusermessage-edit-summary": "Nambahan [[{{int:newduplicateusermessage-template}}|talatah wilujeng sumping]] ka kaca Obrolan saurang pamaké anyar"
 }

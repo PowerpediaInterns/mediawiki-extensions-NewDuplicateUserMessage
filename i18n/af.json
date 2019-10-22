@@ -4,6 +4,6 @@
 			"Naudefj"
 		]
 	},
-	"newusermessage-desc": "Plaas 'n boodskap op alle nuwe gebruikers se besprekingsbladsye",
-	"newuseredit-summary": "Plaas [[{{int:newusermessage-template}}|welkomboodskap]] op nuwe gebruiker se besprekingsblad"
+	"newduplicateusermessage-description": "Plaas 'n boodskap op alle nuwe gebruikers se besprekingsbladsye",
+	"newduplicateusermessage-edit-summary": "Plaas [[{{int:newduplicateusermessage-template}}|welkomboodskap]] op nuwe gebruiker se besprekingsblad"
 }

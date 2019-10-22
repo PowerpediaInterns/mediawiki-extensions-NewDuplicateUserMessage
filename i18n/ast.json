@@ -4,6 +4,6 @@
 			"Esbardu"
 		]
 	},
-	"newusermessage-desc": "Añade un mensaxe a les páxines d'alderique d'usuariu creaes recién",
-	"newuseredit-summary": "Añadiendo [[{{int:newusermessage-template}}|mensaxe de bienvenida]] a la nueva páxina d'alderique d'usuariu"
+	"newduplicateusermessage-description": "Añade un mensaxe a les páxines d'alderique d'usuariu creaes recién",
+	"newduplicateusermessage-edit-summary": "Añadiendo [[{{int:newduplicateusermessage-template}}|mensaxe de bienvenida]] a la nueva páxina d'alderique d'usuariu"
 }

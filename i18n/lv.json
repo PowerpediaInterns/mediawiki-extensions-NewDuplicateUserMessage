@@ -5,6 +5,6 @@
 			"Silraks"
 		]
 	},
-	"newusermessage-desc": "Pievieno sveicienu jauno lietotāju diskusijām",
-	"newuseredit-summary": "[[{{int:newusermessage-template}}|Apsveic]] jaunu dalībnieku"
+	"newduplicateusermessage-description": "Pievieno sveicienu jauno lietotāju diskusijām",
+	"newduplicateusermessage-edit-summary": "[[{{int:newduplicateusermessage-template}}|Apsveic]] jaunu dalībnieku"
 }

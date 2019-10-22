@@ -5,6 +5,6 @@
 			"Wōdenhelm"
 		]
 	},
-	"newusermessage-desc": "Ēacnaþ nīwe gesceapenes brūcendes mōtunge mid gewrite",
-	"newuseredit-summary": "Ēacniende nīwes brūcendes mōtunge mid [[{{int:newusermessage-template}}|wilcumunge ǣrend]]"
+	"newduplicateusermessage-description": "Ēacnaþ nīwe gesceapenes brūcendes mōtunge mid gewrite",
+	"newduplicateusermessage-edit-summary": "Ēacniende nīwes brūcendes mōtunge mid [[{{int:newduplicateusermessage-template}}|wilcumunge ǣrend]]"
 }

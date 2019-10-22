@@ -4,6 +4,6 @@
 			"1AnuraagPandey"
 		]
 	},
-	"newusermessage-desc": "नँवा सदस्य कय बातचीत पन्ना पे एक्ठु संदेश देत है",
-	"newuseredit-summary": "[[{{int:newusermessage-template}}|स्वागतम्]]"
+	"newduplicateusermessage-description": "नँवा सदस्य कय बातचीत पन्ना पे एक्ठु संदेश देत है",
+	"newduplicateusermessage-edit-summary": "[[{{int:newduplicateusermessage-template}}|स्वागतम्]]"
 }

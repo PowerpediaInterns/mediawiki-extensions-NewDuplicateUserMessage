@@ -4,6 +4,6 @@
 			"Byrial"
 		]
 	},
-	"newusermessage-desc": "Placerer en besked på nye brugeres diskussionsside",
-	"newuseredit-summary": "Placerer en [[{{int:newusermessage-template}}|velkomstbesked]] på nye brugeres diskussionsside"
+	"newduplicateusermessage-description": "Placerer en besked på nye brugeres diskussionsside",
+	"newduplicateusermessage-edit-summary": "Placerer en [[{{int:newduplicateusermessage-template}}|velkomstbesked]] på nye brugeres diskussionsside"
 }

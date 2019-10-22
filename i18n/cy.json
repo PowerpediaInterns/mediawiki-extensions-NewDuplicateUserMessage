@@ -4,6 +4,6 @@
 			"Lloffiwr"
 		]
 	},
-	"newusermessage-desc": "Yn ychwanegu neges at dudalen sgwrs cyfrif defnyddiwr newydd sbon",
-	"newuseredit-summary": "Yn ychwanegu [[{{int:newusermessage-template}}|neges o groeso]] at dudalen sgwrs defnyddiwr newydd sbon"
+	"newduplicateusermessage-description": "Yn ychwanegu neges at dudalen sgwrs cyfrif defnyddiwr newydd sbon",
+	"newduplicateusermessage-edit-summary": "Yn ychwanegu [[{{int:newduplicateusermessage-template}}|neges o groeso]] at dudalen sgwrs defnyddiwr newydd sbon"
 }

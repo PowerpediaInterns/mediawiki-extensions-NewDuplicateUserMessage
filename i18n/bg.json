@@ -6,6 +6,6 @@
 			"StanProg"
 		]
 	},
-	"newusermessage-desc": "Добавя съобщение на беседата на новорегистрираните потребители",
-	"newuseredit-summary": "Добавяне на [[{{int:newusermessage-template}}|приветствие]] на беседата на нов потребител"
+	"newduplicateusermessage-description": "Добавя съобщение на беседата на новорегистрираните потребители",
+	"newduplicateusermessage-edit-summary": "Добавяне на [[{{int:newduplicateusermessage-template}}|приветствие]] на беседата на нов потребител"
 }

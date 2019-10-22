@@ -5,6 +5,6 @@
 			"Y-M D"
 		]
 	},
-	"newusermessage-desc": "Ouzhpennañ a ra ur gemennadenn war pajenn gaozeal an implijerien nevez",
-	"newuseredit-summary": "Oc'h ouzhpennañ [[{{int:newusermessage-template}}|ur c'hemenn degemer]] war pajenn bersonel an implijer nevez"
+	"newduplicateusermessage-description": "Ouzhpennañ a ra ur gemennadenn war pajenn gaozeal an implijerien nevez",
+	"newduplicateusermessage-edit-summary": "Oc'h ouzhpennañ [[{{int:newduplicateusermessage-template}}|ur c'hemenn degemer]] war pajenn bersonel an implijer nevez"
 }

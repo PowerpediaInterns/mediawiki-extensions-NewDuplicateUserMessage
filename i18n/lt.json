@@ -5,6 +5,6 @@
 			"Hugo.arg"
 		]
 	},
-	"newusermessage-desc": "Prideda pranešimą į naujai sukurtų naudotojų aptarimų puslapius.",
-	"newuseredit-summary": "Prideda [[{{int:newusermessage-template}}|pasveikinimo pranešimą]] į naujo naudotojo aptarimo puslapį"
+	"newduplicateusermessage-description": "Prideda pranešimą į naujai sukurtų naudotojų aptarimų puslapius.",
+	"newduplicateusermessage-edit-summary": "Prideda [[{{int:newduplicateusermessage-template}}|pasveikinimo pranešimą]] į naujo naudotojo aptarimo puslapį"
 }

@@ -4,6 +4,6 @@
 			"Yekrats"
 		]
 	},
-	"newusermessage-desc": "Aldonas mesaĝon al diskuto-paĝo de nove kreita uzanto",
-	"newuseredit-summary": "Aldonas [[{{int:newusermessage-template}}|bonvenan mesaĝon]] al diskuto-paĝo de nova uzanto"
+	"newduplicateusermessage-description": "Aldonas mesaĝon al diskuto-paĝo de nove kreita uzanto",
+	"newduplicateusermessage-edit-summary": "Aldonas [[{{int:newduplicateusermessage-template}}|bonvenan mesaĝon]] al diskuto-paĝo de nova uzanto"
 }

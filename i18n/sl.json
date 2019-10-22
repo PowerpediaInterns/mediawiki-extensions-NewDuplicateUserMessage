@@ -4,6 +4,6 @@
 			"Dbc334"
 		]
 	},
-	"newusermessage-desc": "Dodaj sporočilo na pogovorno stran novo ustvarjenega uporabnika",
-	"newuseredit-summary": "Dodajanje [[{{int:newusermessage-template}}|pozdravnega sporočila]] na pogovorno stran novega uporabnika"
+	"newduplicateusermessage-description": "Dodaj sporočilo na pogovorno stran novo ustvarjenega uporabnika",
+	"newduplicateusermessage-edit-summary": "Dodajanje [[{{int:newduplicateusermessage-template}}|pozdravnega sporočila]] na pogovorno stran novega uporabnika"
 }

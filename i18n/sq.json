@@ -4,6 +4,6 @@
 			"Olsi"
 		]
 	},
-	"newusermessage-desc": "Shton një mesazh tek faqja e diskutimit e përdoruesit më të ri",
-	"newuseredit-summary": "Duke shtuar [[{{int:newusermessage-template}}|mesazhin mirëseardhës]] tek faqja e diskutimit e përdoruesit të ri"
+	"newduplicateusermessage-description": "Shton një mesazh tek faqja e diskutimit e përdoruesit më të ri",
+	"newduplicateusermessage-edit-summary": "Duke shtuar [[{{int:newduplicateusermessage-template}}|mesazhin mirëseardhës]] tek faqja e diskutimit e përdoruesit të ri"
 }

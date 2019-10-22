@@ -5,6 +5,6 @@
 			"Huji"
 		]
 	},
-	"newusermessage-desc": "یک پیغام در صفحهٔ بحث کاربرهای تازه ایجاد شده می‌افزاید",
-	"newuseredit-summary": "افزودن [[{{int:newusermessage-template}}|پیام خوش‌آمد]] به صفحهٔ بحث کاربر تازه"
+	"newduplicateusermessage-description": "یک پیغام در صفحهٔ بحث کاربرهای تازه ایجاد شده می‌افزاید",
+	"newduplicateusermessage-edit-summary": "افزودن [[{{int:newduplicateusermessage-template}}|پیام خوش‌آمد]] به صفحهٔ بحث کاربر تازه"
 }
