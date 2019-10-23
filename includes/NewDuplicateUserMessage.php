@@ -128,12 +128,12 @@ class NewDuplicateUserMessage {
     }
 
     /**
-     * Take care of substition on the string in a uniform manner
+     * Take care of substitution on the string in a uniform manner.
      * @param string $str
      * @param User $user
      * @param User $editor
      * @param Title $talk
-     * @param bool $preparse If provided, then preparse the string using a Parser
+     * @param bool $preparse If provided, then preparse the string using a Parser.
      * @return string
      */
     private static function substString($str, $user, $duplicateUsers, $editor, $talk, $preparse = null) {
