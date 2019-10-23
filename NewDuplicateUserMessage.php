@@ -1,5 +1,4 @@
 <?php
-
 /** Extension:NewDuplicateUserMessage
  *
  * @file

@@ -1,10 +1,10 @@
 {
-	"@metadata": {
-		"authors": [
-			"Fulup",
-			"Y-M D"
-		]
-	},
-	"newduplicateusermessage-description": "Ouzhpennañ a ra ur gemennadenn war pajenn gaozeal an implijerien nevez",
-	"newduplicateusermessage-edit-summary": "Oc'h ouzhpennañ [[{{int:newduplicateusermessage-template}}|ur c'hemenn degemer]] war pajenn bersonel an implijer nevez"
+    "@metadata": {
+        "authors": [
+            "Fulup",
+            "Y-M D"
+        ]
+    },
+    "newduplicateusermessage-description": "Ouzhpennañ a ra ur gemennadenn war pajenn gaozeal an implijerien nevez",
+    "newduplicateusermessage-edit-summary": "Oc'h ouzhpennañ [[{{int:newduplicateusermessage-template}}|ur c'hemenn degemer]] war pajenn bersonel an implijer nevez"
 }

@@ -1,9 +1,9 @@
 {
-	"@metadata": {
-		"authors": [
-			"Dbc334"
-		]
-	},
-	"newduplicateusermessage-description": "Dodaj sporočilo na pogovorno stran novo ustvarjenega uporabnika",
-	"newduplicateusermessage-edit-summary": "Dodajanje [[{{int:newduplicateusermessage-template}}|pozdravnega sporočila]] na pogovorno stran novega uporabnika"
+    "@metadata": {
+        "authors": [
+            "Dbc334"
+        ]
+    },
+    "newduplicateusermessage-description": "Dodaj sporočilo na pogovorno stran novo ustvarjenega uporabnika",
+    "newduplicateusermessage-edit-summary": "Dodajanje [[{{int:newduplicateusermessage-template}}|pozdravnega sporočila]] na pogovorno stran novega uporabnika"
 }
