@@ -11,8 +11,6 @@
  * @copyright 2019 David Wong
  */
 
-use Wikimedia\Rdbms\IMaintainableDatabase;
-
 class NewDuplicateUserMessage {
     /**
      * Produce the editor for new user messages.
