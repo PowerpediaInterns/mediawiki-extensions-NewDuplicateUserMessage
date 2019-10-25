@@ -10,7 +10,7 @@ https://www.mediawiki.org/wiki/Extension:NewUserMessage
 
 1. Rename the folder to "NewDuplicateUserMessage".
 2. Move the folder to the "extensions" directory, possibly located at "/opt/htdocs/mediawiki/extensions/".
-3. Append the line to the end of the "LocalSettings.php" file, possibly located at "/opt/htdocs/mediawiki/LocalSettings.php":
+3. Append this line to the end of the "LocalSettings.php" file, possibly located at "/opt/htdocs/mediawiki/LocalSettings.php":
 ```
 wfLoadExtension('NewDuplicateUserMessage');
 ```
@@ -21,7 +21,7 @@ systemctl restart httpd
 5. Create the "Template:DuplicateUserWelcome" page on the wiki:
 ```
 == Duplicate user message ==
-You have duplicate accounts: {{{duplicateUsers}}}
+You have duplicate accounts: {{{duplicateUsers}}}.
 ```
 
 ## Configuration
