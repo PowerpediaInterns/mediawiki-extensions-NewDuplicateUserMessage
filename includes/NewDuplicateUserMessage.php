@@ -32,10 +32,10 @@ class NewDuplicateUserMessage {
         return $editor;
     }
 
-	/**
-	 * Produce a (possibly random) signature.
-	 * @return String
-	 */
+    /**
+     * Produce a (possibly random) signature.
+     * @return String
+     */
     private static function fetchSignature() {
         $signatures = self::getMsg('newduplicateusermessage-signatures')->text();
         $signature = '';
@@ -53,11 +53,11 @@ class NewDuplicateUserMessage {
         return $signature;
     }
 
-	/**
-	 * Return the template name if it exists, or '' otherwise.
-	 * @param string $template string with page name of user message template.
-	 * @return string
-	 */
+    /**
+     * Return the template name if it exists, or '' otherwise.
+     * @param string $template string with page name of user message template.
+     * @return string
+     */
     private static function fetchTemplateIfExists($template) {
         $text = Title::newFromText($template);
 
