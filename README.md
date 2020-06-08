@@ -29,5 +29,5 @@ You have duplicate accounts: {{{duplicateUsers}}}.
 The configuration is the same as the original extension except instead of "NewUser", use "NewDuplicateUser".
 
 For example:
-* Instead of `$wgNewUserSuppressRC = false;`, use `$wgNewDuplicateUserSuppressRC = false;`
+* Instead of `$wgNewUserSuppressRC = false;`, use `$wgNewDuplicateUserSuppressRC = false;`.
 * Instead of "MediaWiki:Newusermessage-template", use "MediaWiki:Newduplicateusermessage-template".
